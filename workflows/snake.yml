@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake (dark + light)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: shuvo_9882
+          github_user_name: shuvotrading35-a11y
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_dots=#A78BFA,#7C3AED,#22D3EE,#10B981,#2d3343&color_empty=#2d3343
             dist/snake-light.svg?palette=github&color_dots=#7C3AED,#0891B2,#10B981,#059669,#E2E8F0&color_empty=#E2E8F0
